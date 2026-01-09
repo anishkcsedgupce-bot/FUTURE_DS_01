@@ -24,3 +24,6 @@ and derive key business insights.
 ## Conclusion
 This project demonstrates practical data analysis skills using Excel
 as part of the FUTURE_DS internship program.
+
+📄 Project Report (PDF):
+[Click here to view](./FUTURE_DS_Task1_Business_Sales_Analysis.pdf)
